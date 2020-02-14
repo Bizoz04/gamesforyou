@@ -1,0 +1,242 @@
+body {
+    background-color: #006A00;
+	background-image: url("../ressources/images/background/green1.gif");
+}
+
+.pile {
+	background-image: url("../ressources/images/cartes/pile.png");
+	width: 79px;
+	height: 123px;
+	position: absolute;
+	visibility: hidden;
+}
+
+.paquet {
+    background-image: url("../ressources/images/cartes/paquet.png");
+    width: 79px;
+    height: 123px;
+    position: absolute;
+    visibility: hidden;
+}
+
+.vide {
+    background-image: url("../ressources/images/cartes/paquet.png");
+    width: 79px;
+    height: 123px;
+    position: absolute;
+    visibility: hidden;
+}
+
+.carte {
+	width: 79px;
+    height: 123px;
+    position: absolute;
+}
+
+.pique1 {
+	background-image: url("../ressources/images/cartes/pique1.png");
+}
+
+.pique2 {
+    background-image: url("../ressources/images/cartes/pique2.png");
+}
+
+.pique3 {
+    background-image: url("../ressources/images/cartes/pique3.png");
+}
+
+.pique4 {
+    background-image: url("../ressources/images/cartes/pique4.png");
+}
+
+.pique5 {
+    background-image: url("../ressources/images/cartes/pique5.png");
+}
+
+.pique6 {
+    background-image: url("../ressources/images/cartes/pique6.png");
+}
+
+.pique7 {
+    background-image: url("../ressources/images/cartes/pique7.png");
+}
+
+.pique8 {
+    background-image: url("../ressources/images/cartes/pique8.png");
+}
+
+.pique9 {
+    background-image: url("../ressources/images/cartes/pique9.png");
+}
+
+.pique10 {
+    background-image: url("../ressources/images/cartes/pique10.png");
+}
+
+.pique11 {
+    background-image: url("../ressources/images/cartes/pique11.png");
+}
+
+.pique12 {
+    background-image: url("../ressources/images/cartes/pique12.png");
+}
+
+.pique13 {
+    background-image: url("../ressources/images/cartes/pique13.png");
+}
+
+.coeur1 {
+    background-image: url("../ressources/images/cartes/coeur1.png");
+}
+
+.coeur2 {
+    background-image: url("../ressources/images/cartes/coeur2.png");
+}
+
+.coeur3 {
+    background-image: url("../ressources/images/cartes/coeur3.png");
+}
+
+.coeur4 {
+    background-image: url("../ressources/images/cartes/coeur4.png");
+}
+
+.coeur5 {
+    background-image: url("../ressources/images/cartes/coeur5.png");
+}
+
+.coeur6 {
+    background-image: url("../ressources/images/cartes/coeur6.png");
+}
+
+.coeur7 {
+    background-image: url("../ressources/images/cartes/coeur7.png");
+}
+
+.coeur8 {
+    background-image: url("../ressources/images/cartes/coeur8.png");
+}
+
+.coeur9 {
+    background-image: url("../ressources/images/cartes/coeur9.png");
+}
+
+.coeur10 {
+    background-image: url("../ressources/images/cartes/coeur10.png");
+}
+
+.coeur11 {
+    background-image: url("../ressources/images/cartes/coeur11.png");
+}
+
+.coeur12 {
+    background-image: url("../ressources/images/cartes/coeur12.png");
+}
+
+.coeur13 {
+    background-image: url("../ressources/images/cartes/coeur13.png");
+}
+
+.carreau1 {
+    background-image: url("../ressources/images/cartes/carreau1.png");
+}
+
+.carreau2 {
+    background-image: url("../ressources/images/cartes/carreau2.png");
+}
+
+.carreau3 {
+    background-image: url("../ressources/images/cartes/carreau3.png");
+}
+
+.carreau4 {
+    background-image: url("../ressources/images/cartes/carreau4.png");
+}
+
+.carreau5 {
+    background-image: url("../ressources/images/cartes/carreau5.png");
+}
+
+.carreau6 {
+    background-image: url("../ressources/images/cartes/carreau6.png");
+}
+
+.carreau7 {
+    background-image: url("../ressources/images/cartes/carreau7.png");
+}
+
+.carreau8 {
+    background-image: url("../ressources/images/cartes/carreau8.png");
+}
+
+.carreau9 {
+    background-image: url("../ressources/images/cartes/carreau9.png");
+}
+
+.carreau10 {
+    background-image: url("../ressources/images/cartes/carreau10.png");
+}
+
+.carreau11 {
+    background-image: url("../ressources/images/cartes/carreau11.png");
+}
+
+.carreau12 {
+    background-image: url("../ressources/images/cartes/carreau12.png");
+}
+
+.carreau13 {
+    background-image: url("../ressources/images/cartes/carreau13.png");
+}
+
+.trefle1 {
+    background-image: url("../ressources/images/cartes/trefle1.png");
+}
+
+.trefle2 {
+    background-image: url("../ressources/images/cartes/trefle2.png");
+}
+
+.trefle3 {
+    background-image: url("../ressources/images/cartes/trefle3.png");
+}
+
+.trefle4 {
+    background-image: url("../ressources/images/cartes/trefle4.png");
+}
+
+.trefle5 {
+    background-image: url("../ressources/images/cartes/trefle5.png");
+}
+
+.trefle6 {
+    background-image: url("../ressources/images/cartes/trefle6.png");
+}
+
+.trefle7 {
+    background-image: url("../ressources/images/cartes/trefle7.png");
+}
+
+.trefle8 {
+    background-image: url("../ressources/images/cartes/trefle8.png");
+}
+
+.trefle9 {
+    background-image: url("../ressources/images/cartes/trefle9.png");
+}
+
+.trefle10 {
+    background-image: url("../ressources/images/cartes/trefle10.png");
+}
+
+.trefle11 {
+    background-image: url("../ressources/images/cartes/trefle11.png");
+}
+
+.trefle12 {
+    background-image: url("../ressources/images/cartes/trefle12.png");
+}
+
+.trefle13 {
+    background-image: url("../ressources/images/cartes/trefle13.png");
+}
